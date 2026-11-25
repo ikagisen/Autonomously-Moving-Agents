@@ -270,6 +270,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bot
   target: {fileID: 73510360}
+  sphere: {fileID: 2393231501274174632, guid: 3ff3764b5f8955e4eae8b6843c84dc7e, type: 3}
 --- !u!195 &396088621
 NavMeshAgent:
   m_ObjectHideFlags: 0
